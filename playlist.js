@@ -17,6 +17,6 @@ window.PLAYLIST = [
     "thumb": "",
     "sub_pt": "",
     "sub_es": "",
-    "sub_en": "https://files.catbox.moe/26e72o.vtt"
+    "sub_en": "https://files.catbox.moe/8ckpbl.vtt"
   }
 ];
