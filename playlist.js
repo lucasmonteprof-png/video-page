@@ -14,7 +14,7 @@ window.PLAYLIST = [
     "title_es": "Chrysalis (El momento adecuado - Parte 2)",
     "title_en": "Chrysalis (The Right Time - Part 2)",
     "url": "https://files.catbox.moe/h7eura.mp4",
-    "thumb": "",
+    "thumb": "https://pbs.twimg.com/media/HV6_tKKXUAEy5cV?format=jpg&name=large",
     "sub_pt": "",
     "sub_es": "https://files.catbox.moe/cqb5hp.vtt",
     "sub_en": "https://files.catbox.moe/8ckpbl.vtt"
