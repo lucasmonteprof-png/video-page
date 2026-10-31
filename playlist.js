@@ -7,7 +7,7 @@ window.PLAYLIST = [
     "thumb": "https://files.catbox.moe/cskbke.png",
     "sub_pt": "",
     "sub_es": "https://files.catbox.moe/t4pa2m.vtt",
-    "sub_en": ""
+    "sub_en": "https://files.catbox.moe/kmohk8.vtt"
   },
   {
     "title_pt": "Chrysalis (A Hora Certa - Parte 2)",
@@ -16,7 +16,7 @@ window.PLAYLIST = [
     "url": "https://files.catbox.moe/h7eura.mp4",
     "thumb": "",
     "sub_pt": "",
-    "sub_es": "",
+    "sub_es": "https://files.catbox.moe/29q8l9.vtt",
     "sub_en": "https://files.catbox.moe/8ckpbl.vtt"
   }
 ];
